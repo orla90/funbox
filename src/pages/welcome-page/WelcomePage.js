@@ -1,4 +1,4 @@
-import '../../sass/main.scss';
+import '../../main.scss';
 import { CardList } from './components/cards-list/CardList';
 
 export const WelcomePage = () => {

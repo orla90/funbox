@@ -1,4 +1,4 @@
-import './sass/main.scss';
+import './main.scss';
 import { WelcomePage } from './pages/welcome-page/WelcomePage';
 
 function App() {
