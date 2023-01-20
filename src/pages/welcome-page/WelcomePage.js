@@ -1,4 +1,3 @@
-// import '../../sass/pages/_welcome-page.scss';
 import '../../sass/main.scss';
 import { CardList } from './components/cards-list/CardList';
 

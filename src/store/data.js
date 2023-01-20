@@ -10,6 +10,8 @@ export const data = [
     weight: '0,5',
     units: 'кг',
     description_selected: 'Печень утки разварная с артишоками.',
+    description_disabled: 'Печалька, с фуа-гра закончился.',
+    status: 'default',
   },
   {
     title_default: 'Сказочное заморское яство',
@@ -22,6 +24,8 @@ export const data = [
     weight: '2',
     units: 'кг',
     description_selected: 'Головы щучьи с чесноком да свежайшая сёмгушка.',
+    description_disabled: 'Печалька, с рыбой закончился.',
+    status: 'selected',
   },
   {
     title_default: 'Сказочное заморское яство',
@@ -34,5 +38,7 @@ export const data = [
     weight: '5',
     units: 'кг',
     description_selected: 'Филе из цыплят с трюфелями в бульоне.',
+    description_disabled: 'Печалька, с курой закончился.',
+    status: 'disabled',
   },
 ];
